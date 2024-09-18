@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import "./newprompt.css";
-import Upload from "../upload/upload";
+import Upload from "../upload/Upload";
 import { IKImage } from "imagekitio-react";
 import model from "../../lib/gemini";
 import Markdown from "react-markdown";
